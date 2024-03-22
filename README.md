@@ -1,3 +1,3 @@
-# DSK8R-Lesson-Sales-Machine
+# DSK8R-SK8-Lessons
 Sales machine for skate lessons
 hi
